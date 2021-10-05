@@ -2,7 +2,8 @@
 
 * [Giveaway bots](README.md)
 
-## Giveaway bots
+## Gameplay <a id="giveaway-bots"></a>
 
-* [test a](giveaway-bots/test-a.md)
+* [Factions](giveaway-bots/factions.md)
+* [Mining mode](giveaway-bots/farming.md)
 
