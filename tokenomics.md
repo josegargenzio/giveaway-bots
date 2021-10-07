@@ -10,7 +10,7 @@ Giveaway Bots token is GWY. There will be a fixed amount of 250 million GWY toke
 
 ## GWY utility
 
-**Acquire game assets:** GWYs could be used on Nefty Blocks for purchasing Game packs.
+**Acquire game assets:** GWYs could be used for purchasing Game packs.
 
 **Play-to-Earn:** Each game mode rewards GWYs.
 
@@ -20,10 +20,51 @@ Giveaway Bots token is GWY. There will be a fixed amount of 250 million GWY toke
 
 | Distribution | Amount | Proportion |
 | :--- | :---: | :---: |
-| Giveaway Bots team | 50'000000 | 20% |
-| ICO & Token Sales | 50'000000 | 20% |
-| Community & Marketing | 25'000000 | 10% |
+| Team and investors | 50'000000 | 20% |
+| Presale & ICO | 50'000000 | 20% |
+| Airdrops | 5'000000 | 2% |
+| Community & Marketing | 20'000000 | 8% |
 | Player rewards & Ecosystem | 125'000000 | 50% |
 
+### 
 
+### Team and investors
+
+The team and investors tokens will be released starting on the first day of March 2022. The releases will be twice a month over a period of 6 months.
+
+### 
+
+### Presale & ICO
+
+There are 2 ways to obtain GWY Tokens: Presale & ICO. Presale will be exclusive for early adopters of Giveaway Bots NFTs. The ICO will then be public. Dates, price and restrictions will be anounced via our social media.
+
+### 
+
+### Airdrops
+
+**Airdrop 1:** As a way of thanking RAWR! hardcore collectors, we will make a snapshot of your rawrtrading1 collections and do an airdrop of GWY tokens among those who fulfill requirements. Those requirements will be disclosed after the airdrop.
+
+**Airdrop 2:** We will do a second airdrop on Q4 2023 between all early adopters of Giveaway Bots NFTs. Snapshot will be taken in a secret date on Q4 2021.
+
+### 
+
+### Community & Marketing
+
+In order to be focused 100% on the game, we will delegate all our GB social media to third parties.
+
+### 
+
+### Player rewards & Ecosystem
+
+We will provide rewards for both modes: Mining and game. And game development costs: Servers, dev and maintainance.
+
+
+
+### The GWT cycle
+
+In order to assure balance on the token market cost, we will provide 2 burn mechanisms for the token:
+
+**Manual burn:** We will burn all unused tokens from the game cycle every 2 weeks.
+
+**Packs sale:** All packs price will be marked on GWY. The contents of these packs will be of utility inside the game. We will disclose said content in the future. Tentative packs drop: Q1 2022 or less.
 

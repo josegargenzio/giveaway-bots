@@ -12,21 +12,21 @@ Giveaway bots will be a party game at heart. Players will be able to get into ro
 
 ### **The game loop**
 
-a. Players will enter a waiting room with a non ready state.
+a. **Prep phase:** Players will enter a waiting room with a non ready state.
 
-b. Players can select Booster cards from their wallet to add to their game set wallets.
+a.1. Players can select Booster cards from their WAX wallet to add to their game set wallets.
 
-c. Players select to be in a ready state.
+a.2. Players select to be in a ready state.
 
-d. The game set begins. The order of the players' turns is randomized.
+b. **Game phase:** The game set begins. The order of the players' turns is randomized.
 
-e. The winner will receive a prize in game token and sum to the faction wins.
+b.2. The winner will receive a prize in game token and sum to the faction wins.
 
 
 
 ### **The game set loop**
 
-a. **Boost phase**: The player can select one card from the game set wallet. This effect will last through the current turn.
+a. **Boost phase**: The player can select one card from the game set wallet. This effect will last through the current turn. The card is burned.
 
 b. **Advance phase**: The player throws a dice and advances through the game board.
 
