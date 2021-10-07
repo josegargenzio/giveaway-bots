@@ -6,4 +6,9 @@
 
 * [Factions](giveaway-bots/factions.md)
 * [Mining mode](giveaway-bots/farming.md)
+* [Game mode](giveaway-bots/game-mode.md)
+
+---
+
+* [Tokenomics](tokenomics.md)
 
