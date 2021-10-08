@@ -17,6 +17,7 @@ This is the tentative calendar of events for the project
 | ICO |  |  | December 2021 |  |
 | Mining mode development | October 1st 2021 |  | December 2021 |  |
 | Stand alone game demo | October 1st 2021 | December 1st 2021 | December 1st 2021 |  |
+| Pack sale |  |  | February 2021 |  |
 | Game v 1.0.0 development | December 1st 2021 | April 1st 2022 | April 1st 2022 |  |
 |  |  |  |  |  |
 
