@@ -16,3 +16,7 @@
 
 * [Calendar](roadmap/calendar.md)
 
+---
+
+* [Whitepaper version](whitepaper-version.md)
+
