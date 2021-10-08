@@ -66,5 +66,5 @@ In order to assure balance on the token market cost, we will provide 2 burn mech
 
 **Manual burn:** We will burn all unused tokens from the game cycle every 2 weeks.
 
-**Packs sale:** All packs price will be marked on GIFT. The contents of these packs will be of utility inside the game. We will disclose said content in the future. Tentative packs drop: Q1 2022 or less.
+**Packs sale:** All packs price will be marked on GIFT. The contents of these packs will be of utility inside the game. We will disclose said content in the future.
 
