@@ -8,37 +8,39 @@ description: All the boring mumbo jumbo
 
 Giveaway Bots token is GIFT. There will be a fixed amount of 250 million GIFT tokens. 
 
+![](.gitbook/assets/2.png)
+
 ## GIFT utility
 
-**Acquire game assets:** GIFTs could be used for purchasing Game packs.
+**Acquire game assets: **GIFTs could be used for purchasing Game packs.
 
-**Play-to-Earn:** Each game mode rewards GIFTs.
+**Play-to-Earn: **Each game mode rewards GIFTs.
 
 
 
 ### Token Allocation
 
-| Distribution | Amount | Proportion |
-| :--- | :---: | :---: |
-| Team and investors | 50'000000 | 20% |
-| Presale & ICO | 50'000000 | 20% |
-| Airdrops | 5'000000 | 2% |
-| Community & Marketing | 20'000000 | 8% |
-| Player rewards & Ecosystem | 125'000000 | 50% |
+| Distribution               |   Amount   | Proportion |
+| -------------------------- | :--------: | :--------: |
+| Team and investors         |  50'000000 |     20%    |
+| Presale & ICO              |  50'000000 |     20%    |
+| Airdrops                   |  5'000000  |     2%     |
+| Community & Marketing      |  20'000000 |     8%     |
+| Player rewards & Ecosystem | 125'000000 |     50%    |
 
-### 
+###
 
 ### Team and investors
 
 The team and investors tokens will be released starting on the first day of April 2022. The releases will be twice a month over a period of 6 months.
 
-### 
+###
 
 ### Presale & ICO
 
 There are 2 ways to obtain GIFT Tokens: Presale & ICO. Presale will be exclusive for early adopters of Giveaway Bots NFTs. The ICO will then be public. Price and restrictions will be announced via our social media.
 
-### 
+###
 
 ### Airdrops
 
@@ -46,13 +48,13 @@ There are 2 ways to obtain GIFT Tokens: Presale & ICO. Presale will be exclusive
 
 **Airdrop 2:** We will do a second airdrop on Q4 2023 between all early adopters of Giveaway Bots NFTs. Snapshot will be taken in a secret date on Q4 2021.
 
-### 
+###
 
 ### Community & Marketing
 
 In order to be focused 100% on the game, we will delegate all our GB social media to third parties.
 
-### 
+###
 
 ### Player rewards & Ecosystem
 
@@ -67,4 +69,3 @@ In order to assure balance on the token market cost, we will provide 2 burn mech
 **Manual burn:** We will burn all unused tokens from the game cycle every 2 weeks.
 
 **Packs sale:** All packs price will be marked on GIFT. The contents of these packs will be of utility inside the game. We will disclose said content in the future.
-

@@ -4,11 +4,11 @@ description: Let the party started
 
 # Game mode
 
-Giveaway bots will be a party game at heart. Players will be able to get into rooms with other fellow bots and participate in mini games to earn a Giveaway \(A present box\). The player that first gathers 10 Giveaways will win the game, earn a prize in game token and sum to the faction wins \(_See Mining mode_\).
+Giveaway bots will be a party game at heart. Players will be able to get into rooms with other fellow bots and participate in mini games to earn a Giveaway (A present box). The player that first gathers 10 Giveaways will win the game, earn a prize in game token and sum to the faction wins (_See Mining mode_).
 
 **Important:** You need a Giveaway Bot NFT to participate in games.
 
-
+![](../.gitbook/assets/imagen2.png)
 
 ### **The game loop**
 
@@ -35,6 +35,4 @@ b.1. The player lands on a board spot that can be a mini-game, a penalization or
 c. **Mini game phase**: Mini games sum a Giveaway box to the winner, but also can subtract Giveaway boxes from loosers. If applicable, a boost card may change the outcome of this phase.
 
 d. If a player gets to 10 Giveaway boxes, the game ends . If not, go to a.
-
-
 
