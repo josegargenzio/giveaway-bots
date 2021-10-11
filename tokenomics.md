@@ -44,7 +44,7 @@ There are 2 ways to obtain GIFT Tokens: Presale & ICO. Presale will be exclusive
 
 ### Airdrops
 
-**Airdrop 1:** As a way of thanking RAWR! hardcore collectors, we will make a snapshot of your rawrtrading1 collections and do an airdrop of GIFT tokens among those who fulfill requirements. Those requirements will be disclosed after the airdrop.
+**Airdrop 1:** As a way of thanking RAWR! hardcore collectors, we will make a snapshot of your rawrtrading1 collections and do an airdrop of GIFT tokens among those who fulfill requirements. Requirements will be disclosed prior the airdrop.
 
 **Airdrop 2:** We will do a second airdrop on Q4 2023 between all early adopters of Giveaway Bots NFTs. Snapshot will be taken in a secret date on Q4 2021.
 
